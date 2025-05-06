@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# cmdstack
 
-## Getting Started
+🚀 **cmdstack** — One place for all your essential development commands.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 💡 About
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**cmdstack** was built to solve a common developer pain:  
+> Basic and important commands for various development platforms (like Git, Docker, Node.js, Python, etc.) are scattered across their own documentation or websites — making it frustrating to switch between docs and platforms.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+With **cmdstack**, you get a **single platform** where you can find, search, and organize all critical development commands in one place — saving you time and keeping your workflow smooth.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ✨ Features
 
-To learn more about Next.js, take a look at the following resources:
+✅ Curated list of basic and important commands for popular platforms  
+✅ Easy search and filtering by platform or command type  
+✅ Clean, user-friendly interface  
+✅ Your favourite commad and frameworks shown to you (coming soon!)  
+✅ Share command sets with your team (coming soon!)
+✅ Get recommended the frameworks and command based on your interests(coming soon!)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🤝 Contributing
+Contributions are welcome!
 
-## Deploy on Vercel
+Fork the repo
+Create a new branch (git checkout -b feature-branch)
+Commit your changes (git commit -m 'Add feature')
+Push to the branch (git push origin feature-branch)
+Open a Pull Request
+Use the data directory to add more frameworks and commands in same format as it is.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🙌 Acknowledgements
+Thanks to all the amazing open-source tools and libraries that make cmdstack possible.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📫 Contact
+x: [text](https://x.com/0Tushar)
+linkedin: [text](https://www.linkedin.com/in/tushar-dogra-55b687240/)
