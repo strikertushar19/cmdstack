@@ -50,7 +50,7 @@ export default function Navbar({ darkMode = false }) {
           >
             <Image
               src="/logo.png"
-              alt="cmdstacks logo"
+              alt="cmdstack logo"
               
               width={40}
               height={38}
